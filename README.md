@@ -44,7 +44,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-MIT
+[MIT](https://github.com/GrunCrow/blockchain/blob/main/LICENSE)
 
 ## Disclaimer
 This project is a simple demonstration of a blockchain and is not suitable for real-world use without further development and testing.
