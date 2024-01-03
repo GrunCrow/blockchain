@@ -30,7 +30,11 @@ python gui_server.py
 2. Open Flask server:
 Open a web browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to interact with the blockchain.
 
-3. Use the Tkinter GUI to add new blocks to the blockchain and view its current state or add new blocks from the server.
+![Blockchain Server](https://github.com/GrunCrow/blockchain/blob/main/Images/blockchain_server.png)
+
+4. Use the Tkinter GUI to add new blocks to the blockchain and view its current state or add new blocks from the server.
+
+![Blockchain Client](https://github.com/GrunCrow/blockchain/blob/main/Images/blockchain_client.png)
 
 ## API
 The Flask server provides the following endpoints:
